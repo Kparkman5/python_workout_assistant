@@ -1,0 +1,2 @@
+# python_workout_assistant
+This program uses hard coded workout routines for different body parts to prompt the user about how many reps/how much weight they currently use. I also wanted to connect it to my google calendar so I learned a bit about posting events to your google calendar so the user can track their progress and remember which muscle groups they have already exercised that week, etc.
